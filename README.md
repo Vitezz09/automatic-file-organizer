@@ -65,4 +65,4 @@ Downloads/
 
 ## Author
 
-Vitez Mohanty - Chandigarh University - 26MCD-1(A)/26MCD10018
+Name-Vitez Mohanty -- Chandigarh University -- Class-26MCD-1(A)/Roll No.-26MCD10018
